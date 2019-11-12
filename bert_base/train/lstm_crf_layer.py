@@ -1,7 +1,6 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
-#微信公众号 AI壹号堂 欢迎关注
-#Author bruce
+"""
+author:yqtong@stu.xmu.edu.cn
+"""
 
 import tensorflow as tf
 from tensorflow.contrib import rnn
